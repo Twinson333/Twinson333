@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at DMI College of Engineering | Learing Cyber Security | Top 4% in tryhackme 
+Student at DMI College of Engineering | Learing Cyber Security | Top 3% in tryhackme 
 
 
 ## 🌐 Socials:
