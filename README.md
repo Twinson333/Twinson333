@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at DMI College of Engineering | Learing Cyber Security | Top 3% in tryhackme 
+Passionate about cybersecurity, I focus on penetration testing and vulnerability assessment. Eager to apply my skills in real-world scenarios and contribute to a safer digital future.
 
 
 ## 🌐 Socials:
