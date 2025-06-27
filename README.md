@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about cybersecurity, I focus on penetration testing and vulnerability assessment. Eager to apply my skills in real-world scenarios and contribute to a safer digital future.
+Passionate about cybersecurity, I focus on penetration testing and vulnerability assessment. Interested in securing web applications.
 
 
 ## 🌐 Socials:
