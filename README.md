@@ -7,6 +7,7 @@
      /____/                                               
 ```
 
+
 <div align="center">
 
 ### 🕶️ **ANTONY ESTHAK TWINSON** 🕶️
@@ -17,7 +18,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Twinson_333)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CyberTamarin)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Twinson333&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=Twinson333&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -225,9 +226,15 @@ learning_queue:
 
 **⚡ Always Learning. Always Hunting. Always Securing. ⚡**
 
+</div>
+
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Twinson333/Twinson333/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+**Made with 💻 and ☕ by Cyber Tamarin**
+
+*Last Updated: March 2026*
 
 </div>
 
