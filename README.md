@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🕶️ **ANTONY ESTHAK TWINSON** 🕶️
+###  **ANTONY ESTHAK TWINSON** 
 **`Security Researcher | Bug Bounty Hunter | Offensive Security Specialist`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonyesthaktwinson)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 **`root@cybertamarin:~$ whoami`**
+##  **`root@cybertamarin:~$ whoami`**
 
 ```bash
 ┌──(cyber-tamarin㉿kali)-[~/profile]
@@ -43,7 +43,7 @@
 
 ---
 
-## 🔥 **`root@cybertamarin:~$ ./capabilities.sh`**
+##  **`root@cybertamarin:~$ ./capabilities.sh`**
 
 ```python
 class CyberTamarin:
@@ -72,7 +72,7 @@ class CyberTamarin:
 
 ---
 
-## 🏆 **`root@cybertamarin:~$ cat achievements.log`**
+##  **`root@cybertamarin:~$ cat achievements.log`**
 
 ### **CVE Hall of Fame** 🎖️
 
@@ -92,7 +92,7 @@ class CyberTamarin:
 
 ---
 
-## ⚔️ **`root@cybertamarin:~$ ls -la /arsenal/`**
+##  **`root@cybertamarin:~$ ls -la /arsenal/`**
 
 <div align="center">
 
@@ -118,7 +118,7 @@ class CyberTamarin:
 
 ---
 
-## 🎯 **`root@cybertamarin:~$ cat /proc/current_focus`**
+##  **`root@cybertamarin:~$ cat /proc/current_focus`**
 
 ```yaml
 active_research:
@@ -146,7 +146,7 @@ learning_queue:
 
 ---
 
-## 📊 **`root@cybertamarin:~$ ./github_stats.py`**
+##  **`root@cybertamarin:~$ ./github_stats.py`**
 
 <div align="center">
 
@@ -160,23 +160,23 @@ learning_queue:
 
 ---
 
-## 🧠 **`root@cybertamarin:~$ cat /etc/philosophy.conf`**
+##  **`root@cybertamarin:~$ cat /etc/philosophy.conf`**
 
 ```
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│  "The best defense comes from understanding the attack."  │
+│  "The best defense comes from understanding the attack."   │
 │                                                            │
-│  "If I can break it, I can secure it."                    │
+│  "If I can break it, I can secure it."                     │
 │                                                            │
-│  "Low severity today, critical impact tomorrow."          │
+│  "Low severity today, critical impact tomorrow."           │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📡 **`root@cybertamarin:~$ netstat -connections`**
+##  **`root@cybertamarin:~$ netstat -connections`**
 
 ```bash
 [ACTIVE CONNECTIONS]
@@ -192,7 +192,7 @@ learning_queue:
 
 ---
 
-## 🚨 **`root@cybertamarin:~$ cat /etc/disclaimer.txt`**
+##  **`root@cybertamarin:~$ cat /etc/disclaimer.txt`**
 
 ```diff
 ! IMPORTANT NOTICE
@@ -224,17 +224,7 @@ learning_queue:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**⚡ Always Learning. Always Hunting. Always Securing. ⚡**
-
-</div>
-
----
-
-<div align="center">
-
-**Made with 💻 and ☕ by Cyber Tamarin**
-
-*Last Updated: March 2026*
+** Always Learning. Always Hunting. Always Securing. **
 
 </div>
 
