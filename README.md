@@ -219,7 +219,7 @@ learning_queue:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  "In a world of ones and zeros, I find the vulnerabilities │
+│  "In a world of ones and zeros, I find the vulnerabilities  │
 │   that make the difference between secure and compromised." │
 └─────────────────────────────────────────────────────────────┘
 ```
