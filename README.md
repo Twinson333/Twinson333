@@ -146,17 +146,6 @@ learning_queue:
 
 ---
 
-##  **`root@cybertamarin:~$ ./github_stats.py`**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Twinson333&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twinson333&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
 
 ##  **`root@cybertamarin:~$ cat /etc/philosophy.conf`**
 
